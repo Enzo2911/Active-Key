@@ -7,9 +7,9 @@ cls
 @echo                       -------------------------------------------
 @echo                       Bienvenue Sur Active Key! :)                                                                                  
 @echo                       -------------------------------------------
-@echo                       Cree Par Enzo
+@echo                       Cree Par JackRyan
 @echo                       Pour me contacter 
-@echo                       par mail : enzo.carpentier.pro@gmail.com                                   
+@echo                       par mail : cluberland@protonmail.com                                 
 @echo                       -------------------------------------------                         
 @echo                                             Version 0.1 -_-           
 @echo                       -------------------------------------------
